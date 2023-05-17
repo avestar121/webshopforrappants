@@ -301,7 +301,7 @@ padding-top: 20px;
 }
 .cart-num-items{
   margin-left: 10px;
-  color: #f02d34;
+  color: black;
 }
 .empty-cart{
   margin:40px;
@@ -385,7 +385,7 @@ padding: 30px 65px;
   margin-top: 10px;
   margin-top: 40px;
   text-transform: uppercase;
-  background-color: #f02d34;
+  background-color: black;
   color: #fff;
   cursor: pointer;
     transform: scale(1, 1);
@@ -546,14 +546,14 @@ padding: 6px;
 }
 .quantity-desc .minus{
   border-right: 1px solid gray;
-  color: #f02d34;
+  color: black;
 }
 .quantity-desc .num{
   border-right: 1px solid gray;
   font-size: 20px;
 }
 .quantity-desc .plus{
-  color: rgb(49, 168, 49);
+  color: black;
 
 }
 
